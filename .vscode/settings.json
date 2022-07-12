@@ -1,3 +1,5 @@
 {
-    "omnisharp.disableMSBuildDiagnosticWarning": false
+    "omnisharp.disableMSBuildDiagnosticWarning": false,
+    "FSharp.keywordsAutocomplete": false,
+    "omnisharp.enableMsBuildLoadProjectsOnDemand": true,
 }
