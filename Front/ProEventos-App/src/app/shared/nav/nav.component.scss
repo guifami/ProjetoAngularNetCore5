@@ -1,3 +1,13 @@
-.navbar{
-  background-color: #d7eeff;
+li a {
+  color: rgb(76, 76, 76);
+  font-family: sans-serif, Verdana, Tahoma, sans-serif;
+}
+li a:hover{
+  color: #000;
+  transition: 0.2s;
+}
+
+i{
+  font-size: 30px;
+  margin-top: 5px;
 }

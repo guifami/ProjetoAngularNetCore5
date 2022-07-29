@@ -2,4 +2,22 @@
     "omnisharp.disableMSBuildDiagnosticWarning": false,
     "FSharp.keywordsAutocomplete": false,
     "omnisharp.enableMsBuildLoadProjectsOnDemand": true,
+    "peacock.color": "#0c0c0c",
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#252525",
+        "activityBar.activeBorder": "#606020",
+        "activityBar.background": "#252525",
+        "sash.hoverBorder": "#252525",
+        "statusBar.background": "#0c0c0c",
+        "statusBarItem.hoverBackground": "#252525",
+        "statusBarItem.remoteBackground": "#0c0c0c",
+        "titleBar.activeBackground": "#0c0c0c",
+        "titleBar.inactiveBackground": "#0c0c0c99",
+        "activityBar.foreground": "#e7e7e7",
+        "activityBar.inactiveForeground": "#e7e7e799",
+        "statusBar.foreground": "#e7e7e7",
+        "statusBarItem.remoteForeground": "#e7e7e7",
+        "titleBar.activeForeground": "#e7e7e7",
+        "titleBar.inactiveForeground": "#e7e7e799"
+    },
 }
